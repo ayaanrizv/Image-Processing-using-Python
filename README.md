@@ -1,2 +1,3 @@
 # Image-Processing-using-Python
-Image Processing
+Includes - image resizing, cropping, grey-scaling. \n
+jpg to png converter \n
